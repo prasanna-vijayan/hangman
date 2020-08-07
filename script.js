@@ -8,7 +8,7 @@ const finalMessageRevealWord = document.getElementById('final-message-reveal-wor
 
 const figureParts = document.querySelectorAll('.figure-part');
 
-const words = ['application', 'programming', 'interface', 'wizard', 'kindle', 'amazon', 'venkatakrishnan', 'freshworks', 'SRMEaswari', 'starwars', 'startrek', 'mrspock', 'captainkirk', 'vulcan'];
+const words = ['application', 'programming', 'interface', 'wizard', 'kindle', 'amazon', 'venkatakrishnan', 'freshworks', 'SRMEaswari', 'starwars', 'startrek', 'mrspock', 'captainkirk', 'vulcan', 'smile', 'ember', 'reactvsvue', 'angular'];
 
 let selectedWord = words[Math.floor(Math.random() * words.length)];
 
